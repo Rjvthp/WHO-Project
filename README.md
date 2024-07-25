@@ -45,10 +45,36 @@ To replicate the results of this project, follow these steps:
    git clone https://github.com/rjvthp/WHO-Project.git
 ## Usage
 
+## Hypothesis Testing
+
 ### Overview
 
-- **Script 1**: It claculates Chi-Square Statistics.
-- **Script 2**: It calculates P-value using Permutation test.
+Hypothesis testing is a statistical method used to make inferences about a population based on sample data. In this project, hypothesis testing is used to determine the validity of various assumptions regarding the data collected.
+
+### Hypotheses and Assumptions
+
+- **Null Hypothesis (H0)**: There is no significant difference between the groups being compared.
+- **Alternative Hypothesis (H1)**: There is a significant difference between the groups being compared.
+
+**Assumptions**:
+- The data samples are independent.
+- The data follows a normal distribution.
+- The variances of the populations are equal (for certain tests).
+
+### Methods Used
+
+- **Chi-Square Test**: Used to determine if there is a significant association between categorical variables.
+  - **Implementation**: Using `scipy.stats.chi2_contingency`.
+
+- **T-Test**: Used to compare the means of two groups.
+  - **Implementation**: Using `scipy.stats.ttest_ind`.
+
+### Results and Interpretation
+
+- Check the Report.pdf for more clarity.
+
+
+
 
 
 
