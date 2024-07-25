@@ -90,6 +90,9 @@ We welcome contributions to this project! Here’s how you can get involved:
    ```bash
    git clone https://github.com/your-username/WHO-Project.git
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
