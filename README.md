@@ -43,3 +43,12 @@ To replicate the results of this project, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/rjvthp/WHO-Project.git
+## Usage
+
+### Overview
+
+- **Script 1**: It claculates Chi-Square Statistics.
+- **Script 2**: It calculates P-value using Permutation test.
+
+
+
