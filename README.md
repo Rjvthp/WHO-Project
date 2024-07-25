@@ -81,6 +81,15 @@ The detailed analysis and findings of this project are documented in the report.
 1. Navigate to the `Reports` directory:
    ```bash
    cd Reports
+## Contribution
+
+We welcome contributions to this project! Here’s how you can get involved:
+
+1. **Fork the Repository**: Click on the 'Fork' button at the top right of this page.
+2. **Clone the Repository**: Clone your forked repository to your local machine.
+   ```bash
+   git clone https://github.com/your-username/WHO-Project.git
+
 
 
 
