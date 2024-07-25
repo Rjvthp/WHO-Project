@@ -29,3 +29,17 @@ This project involves several key components:
 
 Understanding the factors that affects the use of the checklist is crucial for improving public health outcomes. This project aims to contribute valuable insights and actionable information to support these efforts.
 
+## Getting Started
+
+To replicate the results of this project, follow these steps:
+
+### Prerequisites
+
+- **Python 3.x**: Ensure Python 3 is installed on your system.
+- **Required Python libraries**: Install the required libraries listed in `requirements.txt`.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/rjvthp/WHO-Project.git
