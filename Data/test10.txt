@@ -1,0 +1,9 @@
+Participant Group,Very_supportive,Supportive,Neutral,Unsupportive,Very_unsupportive
+Nurse,0,2,1,0,0
+Nursing_lead,1,1,0,0,0
+Resident_and_fellows,0,2,1,0,0
+Surgeon_hand,0,2,0,0,0
+Surgeon_cleft,0,2,0,0,0
+Surgeon_plastics,0,2,0,1,0
+Departmental_head,1,0,1,0,0
+Anaesthesiologists,1,1,0,0,0

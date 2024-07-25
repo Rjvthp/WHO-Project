@@ -1,0 +1,9 @@
+Participant_Group,Checklist_Very_Important,Feels_Checklist_Important,Feels_Checklist_Neutral,Feels_Checklist_Unimportant,Feels_Checklist_Very_Unimportant
+Nurse,1,2,0,0,0
+Nursing_Lead,2,0,0,0,0
+Resident_and_Fellows,3,0,0,0,0
+Surgeon_Hand,1,1,0,0,0
+Surgeon_Cleft,2,0,0,0,0
+Surgeon_Plastics,1,2,0,0,0
+Departmental_Head,2,0,0,0,0
+Anaesthesiologists,2,0,0,0,0

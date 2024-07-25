@@ -1,0 +1,9 @@
+Participant_Group,Training_Yes,Training_No,Training_No_but_on_job
+Nurse,2,1,0
+Nursing_Lead,2,0,0
+Resident_and_Fellows,3,0,0
+Surgeon_Hand,2,0,0
+Surgeon_Cleft,1,1,0
+Surgeon_Plastics,1,2,0
+Departmental_Head,0,2,0
+Anaesthesiologists,1,1,0

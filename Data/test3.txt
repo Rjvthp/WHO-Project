@@ -1,0 +1,4 @@
+Category    Elective    Emergency
+Not used    5           2
+Partially used  34      11
+Completely used 64      19

@@ -1,0 +1,9 @@
+Speciality            Not Used   %   Used Partially   %   Used Completely   %   Total
+Burn Surgery Elective      3      4.7       23         35.9        38         59.4     64
+Burn Surgery Emergency     1      6.7       8          53.3        6          40       15
+General Elective           1      8.3       6          50          5          41.7     12
+General Emergency                            1          100                                 1
+Hand Surgery Elective                                      2          18.2        9        81.8     11
+Hand Surgery Emergency      1      6.7       1          6.7         13         86.7     15
+Cleft Elective             1      6.3       3          18.8        12         75       16
+Cleft Emergency                               1          100                                 1

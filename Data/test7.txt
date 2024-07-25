@@ -1,0 +1,9 @@
+Participant_Group,Never_Use,Rarely_Use,Sometimes_Use,Often_Use,Always_Use
+Nurse,0,0,0,2,1
+Nursing_Lead,0,0,0,0,2
+Resident_and_Fellows,0,1,1,0,1
+Surgeon_Hand,0,0,1,1,0
+Surgeon_Cleft,0,0,0,0,2
+Surgeon_Plastics,0,0,1,2,0
+Departmental_Head,0,0,0,1,1
+Anaesthesiologists,0,0,0,0,2

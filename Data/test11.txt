@@ -1,0 +1,9 @@
+Participant Group,Very_satisfied_with_use,Satisfied_with_use,Unsure_about_use,Unsatisfied_with_use,Very_unsatisfied
+Nurse,0,2,0,1,0
+Nursing_lead,0,1,0,1,0
+Resident_and_fellows,0,0,2,0,1
+Surgeon_hand,0,1,1,0,0
+Surgeon_cleft,0,1,0,1,0
+Surgeon_plastics,0,1,0,0,2
+Departmental_head,0,1,0,1,0
+Anaesthesiologists,0,2,0,0,0
