@@ -72,6 +72,16 @@ Hypothesis testing is a statistical method used to make inferences about a popul
 ### Results and Interpretation
 
 - Check the Report.pdf for more clarity.
+## Report
+
+The detailed analysis and findings of this project are documented in the report. You can view the report in the `Reports` directory of this repository.
+
+### Viewing the Report
+
+1. Navigate to the `Reports` directory:
+   ```bash
+   cd Reports
+
 
 
 
