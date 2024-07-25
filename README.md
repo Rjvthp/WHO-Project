@@ -58,8 +58,8 @@ Hypothesis testing is a statistical method used to make inferences about a popul
 
 **Assumptions**:
 - The data samples are independent.
-- The data follows a normal distribution.
-- The variances of the populations are equal (for certain tests).
+- The data doesn't follows a normal distribution.
+  
 
 ### Methods Used
 
